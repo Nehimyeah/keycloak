@@ -1,0 +1,1 @@
+INSERT INTO users (id, age, name) VALUES (1, 27, 'Nehemiah'),(5, 27, 'Nabon'),(2, 27, 'Gutu'),(3, 27, 'Dada'),(4, 27, 'Ruth')
